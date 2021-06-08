@@ -1,0 +1,9 @@
+## Interface: 90005
+## Title: GlobalWarnSolution
+## Notes: Displays vetted notes on players
+## Author: CoolD
+## DefaultState: enabled
+## Version: 0.0.1
+
+GlobalWarnSolution.lua
+db_playernotes.lua

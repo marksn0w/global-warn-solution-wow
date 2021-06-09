@@ -63,7 +63,6 @@ local function CheckHandler(msg, editBox)
                     -- then this means that they are in the player's realm
                     -- so in this case we need to add the players realm to the users name 
                     resultingName = UnitName(unit .. i) .. "-" .. realmName
-                    print(resultingName)
                 end
                 -- runs our findPlayerInDB method
                 findPlayerInDB(resultingName)

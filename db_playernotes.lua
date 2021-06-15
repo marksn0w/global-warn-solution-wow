@@ -6,5 +6,7 @@ playerdata = {
     {"Feldemonizer-Arthas", "throwing dungeon and being racist"},
     {"Feldemonizer-Arthas", "Excessive toxicity"},
     {"Elysiá-Sargeras", "Excessive toxicity for no good reason"},
+	{"Chuknourishs-Anvilmar", "Flaming before leaving dungeon"},
+	{"Vizanna-Proudmoore", "Throwing and flaming mythic dungeon"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
 }

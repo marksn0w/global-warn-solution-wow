@@ -8,5 +8,6 @@ playerdata = {
     {"Elysiá-Sargeras", "Excessive toxicity for no good reason"},
 	{"Chuknourishs-Anvilmar", "Flaming before leaving dungeon"},
 	{"Vizanna-Proudmoore", "Throwing and flaming mythic dungeon"},
+	{"Ðottie-Stormrage", "Intentionally leaving mythic halfway"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
 }

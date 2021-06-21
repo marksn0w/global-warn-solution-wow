@@ -9,5 +9,10 @@ playerdata = {
 	{"Chuknourishs-Anvilmar", "Flaming before leaving dungeon"},
 	{"Vizanna-Proudmoore", "Throwing and flaming mythic dungeon"},
 	{"Ðottie-Stormrage", "Intentionally leaving mythic halfway"},
+	{"Imsoicy-Kel'Thuzad", "Insulting in spanish and throwing dungeon"},
+	{"Togå-Stormrage", "Harassing players and part of toxic guild"},
+	{"Talvio-Stormrage", "Harassing players and part of toxic guild"},
+	{"Adaphegìa-Stormrage", "Harassing players and part of toxic guild"},
+	{"Kaelstrasz-Stormrage", "Harassing players and part of toxic guild"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
 }

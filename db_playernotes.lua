@@ -14,5 +14,8 @@ playerdata = {
 	{"Talvio-Stormrage", "Harassing players and part of toxic guild"},
 	{"Adaphegìa-Stormrage", "Harassing players and part of toxic guild"},
 	{"Kaelstrasz-Stormrage", "Harassing players and part of toxic guild"},
+    {"Dhampirbebe-Darkspear", "acting like a pedophile in trade chat"},
+    {"Défteros-Quel'Thalas", "Intentionally ruined a mythic keystone run by throwing and passing aggro onto others three minutes into the run, then left"},
+    {"Deaddisiplez-Kil'jaeden", "Ignored mechanics in a mythic plus run and kept overpulling many times despite the group asking him to stop"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
 }

@@ -1,4 +1,4 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: GlobalWarnSolution
 ## Notes: Displays vetted notes on players
 ## Author: CoolD

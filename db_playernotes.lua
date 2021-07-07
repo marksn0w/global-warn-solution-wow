@@ -17,5 +17,7 @@ playerdata = {
     {"Dhampirbebe-Darkspear", "acting like a pedophile in trade chat"},
     {"Défteros-Quel'Thalas", "Intentionally ruined a mythic keystone run by throwing and passing aggro onto others three minutes into the run, then left"},
     {"Deaddisiplez-Kil'jaeden", "Ignored mechanics in a mythic plus run and kept overpulling many times despite the group asking him to stop"},
+	{"Lørðærøn-Quel'Thalas", "We wiped in mythic, tank accidentally pulled, then decided to start throwing, then said he didn't have much time to play and left dungeon"},
+	{"Harux-Darkspear", "Using homophobic slurs against players questing with them"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
 }

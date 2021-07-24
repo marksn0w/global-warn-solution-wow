@@ -19,5 +19,6 @@ playerdata = {
     {"Deaddisiplez-Kil'jaeden", "Ignored mechanics in a mythic plus run and kept overpulling many times despite the group asking him to stop"},
 	{"Lørðærøn-Quel'Thalas", "We wiped in mythic, tank accidentally pulled, then decided to start throwing, then said he didn't have much time to play and left dungeon"},
 	{"Harux-Darkspear", "Using homophobic slurs against players questing with them"},
+	{"Eisenpower-Proudmoore", "Running ahead in a mog run, pulling all the bosses, and locking everyone out of their loot"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
 }

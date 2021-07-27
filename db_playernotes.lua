@@ -20,5 +20,6 @@ playerdata = {
 	{"Lørðærøn-Quel'Thalas", "We wiped in mythic, tank accidentally pulled, then decided to start throwing, then said he didn't have much time to play and left dungeon"},
 	{"Harux-Darkspear", "Using homophobic slurs against players questing with them"},
 	{"Eisenpower-Proudmoore", "Running ahead in a mog run, pulling all the bosses, and locking everyone out of their loot"},
+	{"Khaltath-Frostmourne", "Power tripping raid lead. Pulled without ready check when people were afk, raged in comms, then kicked over half the group"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
 }

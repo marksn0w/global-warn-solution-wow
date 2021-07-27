@@ -19,10 +19,8 @@ frame:SetScript("OnEvent", function(self, event, message)
     if name then
         if(string.find(name, "-")) then
             resultingName = name
-            print(resultingName)
         else
             resultingName = name .. "-" .. realmName
-            print(resultingName)
         end
         -- runs our findPlayerInDB method
         findPlayerInDB(resultingName)
@@ -57,7 +55,6 @@ local function CheckHandler(msg, editBox)
                 -- if the name contains a "-" then we dont need to add realm
                 if(string.find(name, "-")) then
                     resultingName = name
-                    print(resultingName)
                 else
                     -- but if their name does not contain a "-"
                     -- then this means that they are in the player's realm

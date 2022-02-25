@@ -21,5 +21,17 @@ playerdata = {
 	{"Harux-Darkspear", "Using homophobic slurs against players questing with them"},
 	{"Eisenpower-Proudmoore", "Running ahead in a mog run, pulling all the bosses, and locking everyone out of their loot"},
 	{"Khaltath-Frostmourne", "Power tripping raid lead. Pulled without ready check when people were afk, raged in comms, then kicked over half the group"},
+	{"Dripshot-Shadowsong", "Leaves groups if he doesn't think you will make time."},
+	{"Mylam-Tichondrius", "Was questioned about his tanking, then told the group to f*** off and left 8 mins into a +8"},
+	{"Gara-Kel'Thuzad", "Harassing group members after someone left a mythic"},
+	{"Äisemberg-Quel'Thalas", "Threw dungeon, insulting players in Spanish"},
+	{"Shinymagic-Ysera", "Being toxic and using homophobic slurs in a dungeon"},
+	{"Kaarrol-Stormrage", "Locking people out of mog run and kicking them to prevent them from getting loot"},
+	{"Thebigbrute-Illidan", "Being racist and homophobic during a battleground"},
+	{"Deämerz-Stormrage", "Being racist and homophobic during a battleground"},
+	{"Zaniron-Stormrage", "Being racist and homophobic during a battleground"},
+	{"Mahwang-Uther", "Got mad at healer so he pulled the whole dungeon and left in a +9"},
+	{"Classybtch-Darkspear", "Whispering people calling them btch"},
+	{"Háhàháhà-Stormrage", "Being toxic and insulting people in mythics"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
 }

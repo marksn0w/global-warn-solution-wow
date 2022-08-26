@@ -33,5 +33,6 @@ playerdata = {
 	{"Mahwang-Uther", "Got mad at healer so he pulled the whole dungeon and left in a +9"},
 	{"Classybtch-Darkspear", "Whispering people calling them btch"},
 	{"Háhàháhà-Stormrage", "Being toxic and insulting people in mythics"},
-    {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"}
+    {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"},
+	{"Estefierroté-Ragnaros", "Pulling whole dungeon and then leaving"}
 }

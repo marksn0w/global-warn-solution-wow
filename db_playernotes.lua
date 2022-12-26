@@ -34,5 +34,8 @@ playerdata = {
 	{"Classybtch-Darkspear", "Whispering people calling them btch"},
 	{"Háhàháhà-Stormrage", "Being toxic and insulting people in mythics"},
     {"Blàzer-Stormrage", "Making racist comments towards a Chinese player"},
-	{"Estefierroté-Ragnaros", "Pulling whole dungeon and then leaving"}
+	{"Estefierroté-Ragnaros", "Pulling whole dungeon and then leaving"},
+	{"Brakenora-Maelstrom", "Being toxic and insulting in mythic"},
+	{"Menagerist-WyrmrestAccord", "Using toxic slurs"},
+	{"Ultratotem-EmeraldDream", "Death threats"},
 }
